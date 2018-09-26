@@ -12,7 +12,7 @@ namespace git1
         {
             // pc1 git1
             Console.WriteLine("hello git1");
-            Console.WriteLine("ny ændring");
+            Console.WriteLine("ny ændring på pc1");
             Console.ReadLine();
         }
     }
