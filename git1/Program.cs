@@ -10,6 +10,7 @@ namespace git1
     {
         static void Main(string[] args)
         {
+            // pc1 git1
             Console.WriteLine("hello git1");
             Console.WriteLine("ny ændring");
             Console.ReadLine();
